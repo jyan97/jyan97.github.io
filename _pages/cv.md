@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington (Expected 2028) — GPA: 4.0/4.0
+* **Computer Science**, Rutgers University (2021–2023) — GPA: 4.0/4.0
+* **M.S. in Electrical Engineering**, University of Southern California (2019–2021) — GPA: 3.94/4.0
+* **B.E. in Communication Engineering**, University of Science and Technology Beijing (2015–2019) — GPA: 3.66/4.0
+  * Dissertation: "Complex Aviation Mobile Services Link Aggregation with Hidden Markov Model" — University Excellent Student Paper Award (top 3%)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Publications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+* **Trustworthy and Interpretable AI**: Explainability and uncertainty quantification in AI systems
+* **Correlation Learning**: Learning and exploiting label and feature correlations in modern machine learning
+* **AI4Science**: Applications of deep learning in healthcare (time-series, pathology data) and biology (genetic data)
+
+## Services
+
+**Reviewer**: ICLR, CVPR, NeurIPS, AAAI, WACV, ACML
