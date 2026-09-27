@@ -8,7 +8,7 @@ paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/32043'
 citation: 'Yuwei Miao, Yuzhi Guo, Hehuan Ma, <b>Jingquan Yan</b>, Feng Jiang, Rui Liao, Junzhou Huang. &quot;GoBERT: Gene Ontology Graph Informed BERT for Universal Gene Function Prediction.&quot; <i>AAAI 2025</i>.'
 ---
 
-**Keywords:** Language Model, Gene Ontology
+**Keywords:** Gene Ontology, Gene Function Prediction, Language Model
 
 **Authors:** Yuwei Miao, Yuzhi Guo, Hehuan Ma, **Jingquan Yan**, Feng Jiang, Rui Liao, Junzhou Huang
 

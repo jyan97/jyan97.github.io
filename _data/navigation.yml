@@ -5,6 +5,8 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
+  - title: "Hobbies"
+    url: /hobbies/
 #  - title: "Teaching"
 #    url: /teaching/
 #  - title: "Portfolio"

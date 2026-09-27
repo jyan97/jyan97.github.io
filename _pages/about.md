@@ -24,10 +24,16 @@ I am a Ph.D. student in Computer Science and Engineering at the [University of T
 
 ## News
 
+- **2026**: Three papers accepted at **NeurIPS 2026** (Poster): B2P-Corr, CytoWave, and Decomposed Representations for Multi-Omics.
+- **September 2026**: Our paper on uncertainty-aware multimodal gait representation learning for scoliosis screening was accepted by **IEEE Transactions on Medical Imaging (TMI)**.
+- **2026**: GAMI accepted at **BIBM 2026**.
+- **2026**: Received the **ICML 2026 Gold Reviewer Award**.
 - **2026**: Two papers accepted — one at **ICLR 2026** (Poster) and one at **AAAI 2026** (Oral)!
 - **2025**: GoBERT accepted at **AAAI 2025** (Poster).
 - **2023**: Paper on self-interpretable time series prediction accepted as **ICML 2023 Oral** (top 8%).
 
 ## Services
 
-**Reviewer**: ICLR, CVPR, NeurIPS, AAAI, WACV, ACML
+**Gold Reviewer Award**: ICML 2026
+
+**Reviewer**: ICML, ICLR, NeurIPS, CVPR, AAAI, WACV, TMLR

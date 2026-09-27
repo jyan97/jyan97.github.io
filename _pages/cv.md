@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
+
 ## Education
 
 * **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington (Expected 2028) — GPA: 4.0/4.0
@@ -31,4 +33,6 @@ redirect_from:
 
 ## Services
 
-**Reviewer**: ICLR, CVPR, NeurIPS, AAAI, WACV, ACML
+**Gold Reviewer Award**: ICML 2026
+
+**Reviewer**: ICML, ICLR, NeurIPS, CVPR, AAAI, WACV, TMLR
