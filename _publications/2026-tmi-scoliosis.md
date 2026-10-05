@@ -9,4 +9,4 @@ citation: 'Haiqing Li, <b>Jingquan Yan</b>, Yinhao Wu, Yuzhi Guo, Hehuan Ma, Wen
 
 **Keywords:** Gait Recognition, Evidential Deep Learning
 
-**Authors:** Haiqing Li, **Jingquan Yan**, Yinhao Wu, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, Junzhou Huang
+**Authors:** Haiqing Li, Yinhao Wu, **Jingquan Yan**, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, Junzhou Huang
