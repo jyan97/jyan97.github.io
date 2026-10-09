@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington (Expected 2028) — GPA: 4.0/4.0
+* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington (Expected 2027) — GPA: 4.0/4.0
 * **Computer Science**, Rutgers University (2021–2023) — GPA: 4.0/4.0
 * **M.S. in Electrical Engineering**, University of Southern California (2019–2021) — GPA: 3.94/4.0
 * **B.E. in Communication Engineering**, University of Science and Technology Beijing (2015–2019) — GPA: 3.66/4.0
